@@ -1,6 +1,5 @@
-### Hi there 👋 - I'm @gslant
+### Hi there 👋 - I'm Byron
 - 🌱 I’m currently learning C# & .NET for my university capstone project, developing a LiveOps tool. 
-- 💞️ I’m keen to contribute to open source projects - just get in touch!
 - 📫 How to reach me: 
 
   * Email: byronsg@proton.me
